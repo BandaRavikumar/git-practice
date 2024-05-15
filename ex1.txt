@@ -1,1 +1,2 @@
 This  is ex1.txt file
+changed the ex1
