@@ -18,4 +18,6 @@ def mul(a,b):
 
 def div(a,b):
     #logic by dev3
+    c=a/b
+    print("division of 2 numbers:",c)
 
