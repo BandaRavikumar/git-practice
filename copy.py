@@ -10,3 +10,10 @@ def sub(a,b):
     c=a-b
     print("diff of numbers:"c)
 
+
+def mul(a,b):
+    #logic by dev2
+
+def div(a,b):
+    #logic by dev3
+
