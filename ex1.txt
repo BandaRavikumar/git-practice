@@ -1,1 +1,7 @@
+<<<<<<<<< Temporary merge branch 1
+This  is ex1.txt file
+changed the ex1
+=========
 This  is ex.txt file
+working on some features
+>>>>>>>>> Temporary merge branch 2
