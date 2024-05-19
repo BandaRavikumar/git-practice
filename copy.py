@@ -13,6 +13,8 @@ def sub(a,b):
 
 def mul(a,b):
     #logic by dev2
+    c=a*b
+    print("product of numbers:",c)
 
 def div(a,b):
     #logic by dev3
